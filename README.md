@@ -1,5 +1,5 @@
 <h1 align="center">Hola ! It's me your friend- Adanan Kasif.</h1>
-<h3 align="center">A MERN Full Stack Web Developer who is eager to learn and work on new technologies too.</h3>
+<h3 align="center">Full Stack Web Developer who is eager to learn and work on new technologies too.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
