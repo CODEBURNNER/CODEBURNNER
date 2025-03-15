@@ -5,11 +5,11 @@
 <p align="left">
 <a href="https://www.instagram.com/sak.engr.07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_burneds" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/adnan-kashif-6825b9239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Adanan Kasif" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/Adnan_5057/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Satyam Sundram" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Adnan_5057/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Adanan Kasif" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Link To BurnedFolio:</h3>
-https://itsmyburnedfolio.netlify.app/
+https://adanan-folios.vercel.app
 
 
 <h3 align="left">Languages and Tools:</h3>
