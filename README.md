@@ -43,4 +43,4 @@ https://adanan-folios.vercel.app
 - <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=CODEBURNNER&show_icons=true&locale=en&layout=compact" alt="burneds" /></p><br/>
 - <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=CODEBURNNER&show_icons=true&locale=en" alt="burneds" /></p>
 
-[Reach me](adnankashifcs5057@gmail.com)
+[Reach me](mailto:adnankashifcs5057@gmail.com)
